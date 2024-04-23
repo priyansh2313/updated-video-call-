@@ -1,2 +1,3 @@
 # updated-video-call-
-Added feature of adding rooms
+Updated version of my earlier vc app with extra added features like call recording, chatroom and increased joining limit and etc.
+Dont forget to try it.
